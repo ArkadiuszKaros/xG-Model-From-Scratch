@@ -2,8 +2,6 @@
 
 Welcome to the **Understat Data Scraper & xG Model** project! This repository is dedicated to football analytics enthusiasts and data scientists who want to dive deep into the world of Expected Goals (xG) using real match data from [understat.com](https://understat.com). With this project, you can extract match statistics, analyze them, and build a predictive xG model using machine learning techniques.  
 
----
-
 ## 🚀 Project Overview  
 
 ### 🔍 **Data Scraping Pipeline**  
@@ -27,15 +25,11 @@ The ultimate goal is to develop an **Expected Goals (xG)** model, leveraging:
 - **📡 Machine Learning Algorithms:** Train and evaluate predictive models using Python libraries such as scikit-learn, XGBoost, or TensorFlow.  
 - **📊 Model Evaluation:** Assess accuracy, precision, and recall to fine-tune the model for optimal performance.  
 
----
-
 ## 💡 Key Features  
 - **Automation**: Fully automated scraping pipeline for seamless data collection.  
 - **Scalability**: Easily adapt the scraper for multiple leagues and seasons.  
 - **Customizability**: Flexible to include new features and metrics for advanced analysis.  
 - **Data Insights**: Gain insights into team and player performances using xG-based metrics.  
-
----
 
 ## 🛠 Technology Stack  
 - **🌐 Web Scraping**:  
@@ -46,8 +40,6 @@ The ultimate goal is to develop an **Expected Goals (xG)** model, leveraging:
   - scikit-learn  
   - XGBoost  
   - Pandas and NumPy for preprocessing  
-
----
 
 ## 🏁 Getting Started  
 
@@ -68,15 +60,9 @@ Make sure you have the following installed:
    pip install -r requirements.txt  
    ```  
 
----
-
 ## 🌍 Future Plans  
 - Implement an interactive dashboard to visualize xG metrics.  
 
----
-
 Feel free to contribute, suggest improvements, or raise issues! 🌟  
-
----
 
 Let me know if you’d like me to add more sections or customize it further! 😊
